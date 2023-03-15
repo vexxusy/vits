@@ -1,7 +1,7 @@
 Cython
 librosa
 matplotlib
-numpy==1.23.4
+numpy
 scipy
 tensorboard
 torch
