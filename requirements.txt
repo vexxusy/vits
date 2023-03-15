@@ -17,3 +17,4 @@ eng_to_ipa
 ko_pron
 indic_transliteration
 opencc
+demjson
