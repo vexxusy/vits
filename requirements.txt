@@ -1,14 +1,14 @@
-Cython
-librosa
-matplotlib
-numpy
+Cython==0.29.33
+librosa==0.10.0
+matplotlib==3.7.0
+numpy==1.22.4
 scipy
 tensorboard
 torch
 torchvision
 unidecode
 jamo
-pypinyin
+pypinyin==0.48.0
 jieba
 protobuf
 cn2an
@@ -17,4 +17,3 @@ eng_to_ipa
 ko_pron
 indic_transliteration
 opencc
-demjson
